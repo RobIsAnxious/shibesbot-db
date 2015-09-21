@@ -6,6 +6,7 @@ Make sure that:
  * You add the picture to the  `pictures` directory.
  * The picture is at the highest resolution possible
  * It's actually a Shiba Inu 
+ * It hasn't been submitted before (because I'm too lazy to check)
 
 If your PR gets accepted, the bot will post your photo (eventually).
 
